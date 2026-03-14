@@ -39,19 +39,19 @@ The application includes a data processing pipeline, exploratory data visualizat
 The following figures represent the key findings from the analysis performed in the Jupyter environment.
 
 #### Figure 1: Hourly Transaction Volume
-![alt text](image.png)
+![Hourly Volume](image.png)
 > *Insight: Sales peak significantly at 10:00 AM. Maintenance should be avoided during this window.*
 
 #### Figure 2: Most Popular Coffee Varieties
-![alt text](image-1.png)
+![Coffee Popularity](image-1.png)
 > *Insight: Lattes and Hot Chocolates are the top-selling items, suggesting a preference for milk-based beverages.*
 
 #### Figure 3: Correlation Heatmap / Feature Importance
-![alt text](image-2.png)
+![Heatmap](image-2.png)
 > *Validating the relationship between time of day and total revenue.*
 
 #### Figure 4: Machine Learning Model Performance
-![alt text](image-3.png)
+![Model Output](image-3.png)
 > *The Random Forest model achieved a Mean Absolute Error of 1.38.*
 
 ---
